@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/bin/Debug/netcoreapp2.0/lab1.5.deps.json
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/bin/Debug/netcoreapp2.0/lab1.5.runtimeconfig.json
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/bin/Debug/netcoreapp2.0/lab1.5.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/bin/Debug/netcoreapp2.0/lab1.5.dll
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/bin/Debug/netcoreapp2.0/lab1.5.pdb
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/obj/Debug/netcoreapp2.0/lab1.5.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/obj/Debug/netcoreapp2.0/lab1.5.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/obj/Debug/netcoreapp2.0/lab1.5.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/obj/Debug/netcoreapp2.0/lab1.5.dll
+/home/md5inj/Рабочий стол/Xleb_1.5/lab1.5/obj/Debug/netcoreapp2.0/lab1.5.pdb
